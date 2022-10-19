@@ -1,0 +1,13 @@
+
+## Setting up R
+
+```{r}
+rm(list=ls())
+install.packages("here")
+library(here)
+library(dplyr)
+library(ggplot2)
+```
+
+
+
